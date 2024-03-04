@@ -25,4 +25,4 @@ kubectl get nodes
 - Cleanup workspace
 ```bash
 terraform destroy
-```# eks
+```

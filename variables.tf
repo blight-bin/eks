@@ -8,7 +8,7 @@ variable "region" {
 }
 
 variable "eks_cluster_name" {
-  default = "dev-eks"
+  default = "seoul-eks"
 }
 
 variable "aws_region" {
